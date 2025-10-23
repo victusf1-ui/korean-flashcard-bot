@@ -1,0 +1,920 @@
+오, besh
+이, bu/tish
+아우, bola
+아이, bola
+오이, bodring
+가수, qo‘shiqchi
+고기, go‘sht
+구두, tufli
+나라, davlat
+나무, daraxt
+다리, oyoq
+라디오, radio
+머리, bosh
+바나나, banan
+바지, shim
+소, sigir
+아기, chaqaloq
+어머니, ona
+지도, xarita
+모자, bosh kiyim
+아버지, ota
+허리, bel
+지하, yer osti
+야구, beyzbol
+야자수, palma
+이야기, suhbat
+여자, ayol
+벼, guruch
+혀, til
+요가, yoga
+요리, ovqat pishirish
+교수, professor
+유리, shisha
+휴지, tualet qog‘ozi
+우유, sut
+카드, karta
+코, burun
+키, balandlik
+타조, tuyaqush
+토마토, pomidor
+투우수, matador
+파리, Parij
+포도, uzum
+우표, pochta markasi
+차, choy
+치마, yubka
+고추, qalampir
+커피, kofe
+코트, palto
+기차표, poyezd bileti
+까치, zog‘cha
+꼬리, dum
+코끼리, fil
+따다, uzmoq
+뜨다, suzmoq
+머리띠, abadok
+뿌리, tomir/ildiz
+뼈, suyak
+아빠, ota
+싸다, arzon
+쓰다, yozmoq/foydalanmoq
+아저씨, ko‘chadagi amaki
+짜다, sho‘r
+찌다, bug‘lamoq
+가짜, qalbaki
+개미, chumoli
+배, qayiq
+새, qush
+해, quyosh
+게, qisqichbaqa
+세수, yuvinish
+그네, arg‘imchoq
+카메라, kamera
+얘기, suhbat
+예쁘다, chiroyli
+서예, xattotlik
+시계, soat apparati
+과자, pishiriq
+와이셔츠, ko‘ylak
+화가, jahl
+사과, olma
+뭐, nima
+줘요, bermoq
+더워요, issiq
+추워요, sovuq
+돼지, cho‘chqa
+왜, nimaga
+웨이터, ofitsant
+스웨터, svitr
+쇠고기, mol go‘shti
+외우다, yodlamoq
+회사, firma
+두뇌, miya
+귀, quloq
+쉬다, dam olmoq
+쥐, sichqon
+가위, qaychi
+의사, doktor
+의자, stul
+여의도, Yoi oroli
+회의, majlis
+수박, tarvuz
+책, kitob
+부엌, oshxona/kuxnya
+밖, tashqari
+돈, pul
+레몬, limon
+신문, gazeta
+우산, zontik
+곧, yaqinda
+밑, osti
+빗, taroq
+옷, kiyim
+낮, kunduzi
+꽃, gul
+빛, nur
+히읗, h
+딸기, qulupnay
+물, suv
+발, oyoq
+연필, qalam
+곰, ayiq
+남자, erkak
+엄마, ona
+컴퓨터, kompyuter
+밥, qaynatilgan guruch
+입, og‘iz
+무릎, tizza
+숲, o‘rmon
+가방, sumka
+공, koptok
+냉장고, muzlatkich
+창문, deraza
+나라, davlat
+중국, Xitoy
+일본, Yaponiya
+미국, AQSH
+한국, Koreya
+프랑스, Fransiya
+독일, Germaniya
+호주, Avstraliya
+영국, Angliya
+빈칸, bo‘sh joy
+알맞다, mos
+단어, so‘z
+선생님, o‘qituvchi
+학생, o‘quvchi
+의사, doktor
+회사원, firma ishchisi
+요리사, oshpaz
+기자, muxbir
+가수, qo‘shiqchi
+군인, askar
+인사말, salomlashish gapi
+만나다, uchrashmoq
+반갑다, xursand bo‘lmoq
+한국말, koreys tili
+그림, surat (chizilgan)
+이야기하다, suhbatlashmoq
+저, men/anavi
+씨, janob/xonim
+네, ha
+주부, uy bekasi
+말하기, gaplashish
+어느, qaysi
+캐나다, Kanada
+국적, millat
+묻다, so‘ramoq
+인도, Hindiston
+직업, kasb
+아니요, yo‘q
+여러분, sizlar/azizlar
+무엇, nima
+러시아, Rossiya
+파키스탄, Pokiston
+친구, do‘st
+명함, ism karta
+이름, ism
+전화번호, telefon raqam
+영어, ingliz tili
+블로그, internetdagi blog
+찾다, qidirmoq
+과제, topshiriq
+문화, madaniyat
+책상, parta
+의자, stul
+책, kitob
+공책, daftar
+볼펜, ruchka
+연필, qalam
+가방, sumka
+지우개, o‘chirg‘ich
+시계, soat
+모자, bosh kiyim
+우산, soyabon
+신문, gazeta
+사전, lug‘at
+안경, ko‘zoynak
+휴대폰, telefon
+남자친구, yigit o‘rtoq
+동전, tanga
+차, mashina
+한국어, koreys tili
+여자친구, qiz o‘rtoq
+뭐, nima
+창문, deraza
+지도, xarita
+필통, penal/qalamdon
+전자사전, elektron lug‘at
+한국어로, koreys tilida
+자, chizg‘ich
+잡지, jurnal
+지갑, hamyon
+여기 있어요, marhamat
+커피, kofe
+좀, iltimos
+콜라, kola
+주스, sharbat
+교통카드, transport kartasi
+휴지, salfetka
+물, suv
+어서 오세요, xush kelibsiz
+사과, olma
+오랜지, apelsin
+영화, kino
+우유, sut
+바나나, banan
+딸기, qulupnay
+텔레비전, televizor
+방, xona
+서울대학교, Seul universiteti
+제, mening
+침대, kravat
+룸메이트, xonadosh
+에어컨, konditsioner
+물건, narsa
+팀, jamoa
+나누다, bo‘lishmoq
+받다, olmoq
+붙이다, yopishtirmoq
+자다, uxlamoq
+공부하다, o‘qimoq/o‘rganmoq
+일하다, ishlamoq
+운동하다, sport bilan shug‘ullanmoq
+숙제를 하다, uy vazifa qilmoq
+옷을 사다, kiyim sotib olmoq
+영화를 보다, kino ko‘rmoq
+친구를 만나다, do‘sti bilan uchrashmoq
+태권도를 배우다, tekvando o‘rganmoq
+밥을 먹다, ovqat yemoq
+커피를 마시다, kofe ichmoq
+책을 읽다, kitob o‘qimoq
+도서관, kutubxona
+집, uy
+백화점, univermag
+시장, bozor
+공원, park/bog‘
+커피숍, kafe
+극장, kinoteatr
+학교, maktab
+식당, oshxona
+회사, firma
+지금, hozir
+하다, qilmoq
+쉬다, dam olmoq
+피자, pitsa
+보다, ko‘rmoq
+사다, sotib olmoq
+먹다, yemoq
+마시다, ichmoq
+읽다, o‘qimoq
+배우다, o‘rganmoq
+일본어, yapon tili
+아르바이트하다, qo‘shimcha ish qilmoq
+요리, pishirish
+만나다, uchrashmoq
+오늘, bugun
+그리고, va
+어디, qayer
+고기, go‘sht
+프랑스어, fransuz tili
+드라마, serial/dorama
+그럼, unday bo‘lsa
+스포츠 센터, sport markazi
+차, choy
+가르치다, o‘qitmoq
+언어교육원, til markazi
+불고기, pulgogi
+노래방, karaoke
+공항, aeroport
+우체국, pochta
+대사관, elchixona
+은행, bank
+가게, magazin
+약국, apteka
+병원, kasalxona
+미용실, sartaroshxona
+앞, oldi
+뒤, orqasi
+옆, yoni
+안, ichi
+아래/밑, osti/tagi
+위, usti
+인사동, Insadong
+서울타워, Seul minorasi
+명동, Myongdong
+청계천, Chonkechon
+대학로, Seuldagi attraksion
+남산, Nam tog‘i
+교실, sinf xona
+찻집, choyxona
+서울, Seul
+시내, shahar markazi
+구경하다, tomosha qilmoq
+쇼핑하다, xarid qilmoq
+연극, teatr
+알다, bimoq
+어머니, ona
+아버지, ota
+잘 지내다, ishlari yaxshi bo‘lmoq
+기숙사, yotoqxona
+사진, rasm
+매일, har kuni
+그, u
+반, sinf
+사랑하다, sevmoq
+서점, kitob do‘koni
+빵집, nonvoyxona
+화장실, hojatxona
+음식, ovqat/taom
+기념품, suvenir
+그림, rasm
+숫자, raqam/son
+월요일, dushanba
+화요일, seshanba
+수요일, chorshanba
+목요일, payshanba
+금요일, juma
+토요일, shanba
+일요일, yakshanba
+주말, hafta oxiri
+날짜, sana
+요일, hafta kuni
+며칠, qaysi kun
+시험, imtixon
+언제, qachon
+무슨, qaysi
+생일, tug'ilgan kun
+하고, bilan
+크리스마스, krismas
+파티, bazm
+시간, vaqt
+미안하다, uzr so'ramoq
+약속, uchrashuv/vada
+같이, birga
+어제, kecha
+코엑스몰, Seuldagi savdo markazi
+카드, karta
+선물, sovg'a
+세수하다, yuvinmoq
+이를 닦다, tish yuvmoq
+거기, u joy
+산책하다, sayr qilmoq
+사진을 찍다, rasm olmoq
+누구, kim
+혼자, yolg'iz
+끝나다, tugamoq
+강남역, Gangnam bekati
+그래서, shuning uchun
+내일, ertaga
+스케줄, kun tartibi
+지난주, o’tgan hafta
+양력, quyosh kalendari
+음력, oy kalendari
+설날, yangi yil
+세배를 하다, tazim qilmoq
+떡국, tokkuk
+추석, hosil bayrami/shukronalik kuni
+차례를 지내다, marosim o'tkazmoq
+송편, guruchli pishiriq
+샌드위치, sendvich
+스파게티, spagetti
+피자, pitsa
+햄버거, gamburger
+귤, mandarin
+딸기, qulupnay
+사과, olma
+수박, tarvuz
+앉다, o'tirmoq
+주다, bermoq
+잠깐만, biroz
+기다리다, kutmoq
+빵, non
+몇, qancha/necha
+아이스크림, muzqaymoq
+주스, sharbat
+녹차, ko'k choy
+콜라, kola
+메뉴, menyu
+좋아하다, yaxshi ko'rmoq
+우동, udon taomi
+맥주, pivo
+물건, narsa
+게수, sanoq
+그래요, shunday
+여기요, kechirasiz (birovni chaqirganda)
+맛있다, mazali
+좋다, yaxshi
+싸다, arzon
+길, yo'l
+복잡하다, tiqilinch
+노래, qo'shiq
+아리랑, koreya folkor musiqasi
+바지, shim
+운동화, krossovka
+아저씨, amaki
+모두, hammasi
+또, yana
+키위, kivi
+파인애플, ananas
+박스, quti
+멜론, qovun
+과자, pishiriq
+달걀, tuxum
+휴지, salfetka
+케이크, tort
+아이스커피, muzli kofe
+에스프래소, espresso
+돈가스, kotlet
+점심, tushlik
+급, daraja
+팔다, sotmoq
+인지, inch (o'lchov birlik)
+아주, juda
+리모컨, pult
+깨끗하다, toza
+많다, ko'p
+권, kitoblarga –ta
+전화하다, telefon qilmoq
+비싸다, qimmat
+깎아 주다, arzon qilmoq
+백김치, oq kimchi
+깍두기, rediskali kimchi
+오이김치, bodring kimchi
+물김치, suvli kimchi
+이런, bunday
+김치볶음밥, qovurilgan guruch
+김치전, kimchi quymoq
+얼마, qancha
+십 원, 10 von
+오십 원, 50 von
+백 원, 100 von
+오백 원, 500 von
+천 원, 1000 von
+오천 원, 5000 von
+만 원, 10 000 von
+오만 원, 50 000 von
+흐리다, bulutli
+맑다, havo ochiq
+덥다, issiq
+춥다, sovuq
+따뜻하다, iliq
+시원하다, salqin
+비가 오다, yomg'ir yog'moq
+눈이 오다, qor yog'moq
+계절, fasl
+봄, bahor
+여름, yoz
+가을, kuz
+겨울, qish
+쉽다, oson
+어렵다, qiyin
+맵다, achchiq
+가볍다, yengil
+무겁다, og'ir
+불규칙, qoidaga tushmaslik
+날씨, ob havo
+어때요?, qanday?
+재미있다, qiziqarli
+동생, uka
+떡붂이, tokpukki
+재미없다, qiziq emas
+도쿄, Tokyo
+조심해서 오세요, ehtiyot bo’lib keling
+런던, London
+싱가포르, Singapur
+모스크바, Moskva
+카이로, Qohira
+시드니, Sidney
+뉴욕, Nyu York
+베이징, Pekin
+어떻다, qanday
+파리, Parij
+요즘, shu kunlarda
+쉬는 시간, dam olish vaqti
+이야기하다, suhbatlashmoq
+고향, vatan
+스키장, chang'i kompleksi
+단풍, xazonrezgirlik
+수영장, suzish kompleksi
+꽃, gul
+바다, dengiz
+생선, baliqli taom
+부산, Pusan
+질문, savol
+작년, o’tgan yili
+브라질, Braziliya
+에서, …dan
+브라질리아, Brazilia
+항상, doim
+처음, ilk bor
+하늘, osmon
+눈사람, qor odam
+만들다, tayyorlamoq
+필요하다, zarur bo'moq
+놓다, qo'ymoq
+각각, har bir
+태국, Tailand
+수영하다, suzmoq
+망고, mango
+선글라스, ko'zoynak (quyosh)
+부채, fen
+슬리퍼, shippak/tapochka
+삼계탕, samketang
+들, …lar
+골프, golf
+자전거, velosiped
+게임, o'yin
+테니스, tennis
+농구, basketbol
+피아노, pianino
+당구, billiard
+스키, chang'i
+기타, gitara
+스케이트, skeyt
+축구, futbol
+치다, o'ynamoq/chalmoq
+타다, minmoq/uchmoq
+하다, qilmoq
+낮잠을 자다, kunduzgi uyqu uxlamoq
+등산을 하다, tog'ga chiqmoq
+산책을 하다, sayr qilmoq
+여행을 하다, sayohat qilmoq
+노래방에 가다, karaokega bormoq
+찜질바에 가다, saunaga bormoq
+걷다, yurmoq
+버스, avtobus
+타다, minmoq
+걸어서 가다, piyoda yurib bormoq
+음악, musiqa
+듣다, eshitmoq
+뉴스, yangilik
+라디오, radio
+잘, yaxshi
+생활, hayot
+조금, biroz
+심심하다, zerikarli
+한강, Han daryosi
+그런데, lekin
+어떻게, qanday qilib
+가깝다, yaqin
+관악산, Gvanak tog’i
+시청, shahar markazi
+정말, haqiqatdan
+많다, ko'p
+자주, tez-tez
+그래요, shunday/rostdan
+다음, kelasi
+피곤하다, charchamoq
+크다, katta
+식혜, guruchli ichimlik
+저기, anavi yer
+수업, dars
+오후, tushdan so'ng
+운동장, sport maydoni
+번, nomer
+보통, odatda
+미팅, uchrashuv
+소개하다, tanishtirmoq
+소개팅, tanishuv uchrashuvi
+웃어른, katta odam
+선을 보다, sovchilar orqali uchrashmoq
+할머니, buvi
+할아버지, buva
+어머니, ona
+아버지, ota
+누나, opa (o‘g‘il bolalar uchun)
+형, aka (o‘g‘il bolalarga)
+언니, opa (qizlarga)
+오빠, aka (qizlarga)
+여동생, singil
+남동생, uka
+아내, xotin
+남편, er
+딸, qiz farzand
+아들, o‘g‘il farzand
+열, 10
+스물, 20
+서른, 30
+마흔, 40
+쉰, 50
+예순, 60
+일흔, 70
+여든, 80
+아흔, 90
+백, 100
+이름/성항, ism
+집/댁, uy
+사람/명/분, odam
+나이/연세, yosh
+있다/계시다, bor bo‘lmoq
+자다/주무시다, uxlamoq
+상자, quti
+꺼내다, sug‘urmoq
+운전, haydamoq
+수학, matematika
+인사하다, salomlashmoq
+이쪽, bu
+한테서, -dan
+뭘요, unchalik emas
+동아리, to‘garak
+같은과, o‘xshash daraja
+윗사람, o‘zidan katta odam
+역사, tarix
+이분, bu kishi
+우리, biz/bizning
+반친구, xonadosh
+다니다, qatnamoq
+친절하다, mehribon
+사장님, direktor
+전에, oldin
+멋있다, kelishgan
+부모님, ota-ona
+미인, chiroyli ayol
+대학교, universitet
+신문사, bosmaxona
+중학교, o‘rta maktab
+공손하다, kamtar
+강아지, kuchukcha
+가족사진, oilaviy rasm
+웃다, kulmoq
+취미, hobi
+시험을 보다, imtihon topshirmoq
+아기, chaqaloq
+태어나다, tug‘ilmoq
+다른나라, boshqa davlat
+되다, bo‘lmoq
+새벽, sahar
+아침, ertalab
+낮, kunduzi
+저녁, kechki payt
+밤, tun
+오전, obeddan oldin
+오후, obeddan keyin
+일어나다, uyg‘onmoq
+버스를 기다리다, avtobus kutmoq
+운전하다, mashina haydamoq
+버스를 타다, avtobusga minmoq
+세수하다, yuvinmoq
+청소하다, uy tozalamoq
+회의하다, majlis o‘tkazmoq
+빨래하다, kir yuvmoq
+전화하다, telefon qilmoq
+컴퓨터를 하다, kompyuterda ishlamoq
+요리하다, ovqat pishirmoq
+샤워하다, dush qabul qilmoq
+시, soat
+분, minut
+반, yarim
+쯤, taxminan
+아침, nonushta
+저녁, kechki ovqat
+수업을 하다, dars qilmoq
+주말 잘 보내다, dam olish kunini yaxshi o‘tkazmoq
+데이트하다, uchrashuvga chiqmoq
+강남, Gangnam
+여의도, Yoyido
+박물관, muzey
+연습, mashq
+인천, Inchon
+전통, milliy
+이메일, e-mail
+출입국관리사무소, muhojirlar markazi
+그렇지만, lekin
+머리, bosh
+목, bo‘yin
+어깨, yelka
+팔, qo‘l
+손, qo‘l
+가슴, ko‘krak
+배, qorin
+허리, bel
+다리, oyoq
+무릎, tizza
+발, oyoq
+눈, ko‘z
+코, burun
+입, og‘iz
+귀, quloq
+얼굴, yuz/aft/bet
+기침을 하다, yo‘talmoq
+목이 아프다, tomog‘i og‘rimoq
+열이 나다, isitma chiqmoq
+콧물이 나다, burun oqmoq
+바쁘다, band bo‘lmoq
+배고프다, qorni ochmoq
+예쁘다, chiroyli
+편지, xat
+쓰다, yozmoq
+나쁘다, yomon
+담배를 피우다, sigaret chekmoq
+알겠다, tushundim
+늦다, kechikmoq
+감기에 걸리다, shamollamoq
+유행이다, urf bo‘lmoq
+약, dori
+푹 쉬다, miriqib dam olmoq
+말을 하다, gapirmoq
+오래, uzoq vaqt
+술, aroq
+다행이다, xayriyat
+무리하다, ortiqcha ishlamoq
+생신, tug‘ilgan kun (hurmat shakli)
+리포트, hisobot
+내다, topshirmoq
+알람, budilnik
+끄다, o‘chirmoq
+걱정, havotir
+발음, talaffuz
+피시방, kompyuter xona
+싸우다, urishmoq
+이렇게, bunday
+목욕하다, hammom qilmoq
+환자, bemor
+의사, doktor
+씻다, yuvmoq
+따뜻한 물, iliq suv
+얼음물, muzli suv
+손님, mehmon
+내년, kelasi yil
+결혼하다, turmush qurmoq
+휴대전화 사용 금지, telefondan foydalanish taqiqlanadi
+금연, chekish taqiqlanadi
+주차금지, mashina qo‘yish taqiqlanadi
+코 감기, burun shamollashi
+목 감기, tomoq shamollashi
+몸살 감기, tana shamollashi
+파, piyoz
+붙이다, yopishtirmoq
+소금물, tuzli suv
+헹구다, og‘izni chaymoq
+무즙, rediska suvi
+마사지하다, massaj qilmoq
+전화번호, telefon raqam
+문자를 받다, sms olmoq
+문자를 보내다, sms jo‘natmoq
+전화를 받다, qo‘ng‘iroqni qabul qilmoq
+전화하다, telefon qilmoq
+그렇습니다, shunday
+오랜만이에요, anchadan beri ko‘rishmadik
+일, ish
+사무실, ofis
+뭘요, muammo yo‘q
+맛없다, bemaza
+왜, nimaga
+조금전, biroz oldin
+늦잠, uxlab qolmoq
+여행사, sayohat agentligi
+아까, biroz oldin
+그럼요, albatta
+이따, keyinroq
+다른, boshqa
+다, hammasi
+장소, joy
+몰라서, bilmaganim uchun
+도둑이 들다, o‘g‘ri kirmoq
+사고가 나다, avariya bo‘lmoq
+불이 나다, olov chiqmoq
+요금, to‘lov
+안에, ichida
+그러면, u holda
+깎다, chegirma qilmoq; qirqmoq
+나, yo/yoki
+셔츠, ko‘ylak
+모자, bosh kiyim
+바지, shim
+치마(스커트), yubka
+코트, palto
+원피스, ko‘ylak
+구두, tufli
+운동화, krasovka
+양복, kostyum
+입다, kiymoq
+신다, (poyabzal) kiymoq
+쓰다, bosh kiyim kiymoq
+크다, katta
+작다, kichkina
+길다, uzun
+짧다, kalta
+높다, baland
+낮다, past
+비싸다, qimmat
+싸다, arzon
+불편하다, noqulay
+편하다, qulay
+두껍다, qalin
+얇다, yupqa
+알다, bilmoq
+만들다, tayyorlamoq
+살다, yashamoq
+놀다, o‘ynamoq
+팔다, sotmoq
+열다, ochmoq
+어떤, qanday
+유행이다, mashhur bo‘lmoq
+무섭다, qo‘rqinchli
+슬프다, g‘amgin
+키, bo‘y
+청바지, ko‘k shim
+체격이 좋다, qomati yaxshi bo‘lmoq
+마음, qalb
+미니스커트, mini yubka
+선물하다, sovg‘a qilmoq
+보내다, jo‘natmoq
+드리다, bermoq (hurmat shakli)
+한번, bir marta
+막걸리, guruchli ichimlik
+도시, shahar
+한복, koreys milliy libosi
+티셔츠, futbolka
+스타일, stil
+단순하다, oddiy
+사탕, shirinlik
+수료식, yopilish marosimi
+목도리, sharf
+귀걸이, zirak
+기쁘다, hursand bo‘lmoq
+하다, qilmoq / o‘ramoq (sharf)
+가지다, olmoq
+모르겠어요, bilmayman
+축하, tabriklash
+새, yangi
+놀라다, hayron bo‘lmoq
+먼저, birinchi navbatda
+묻다, so‘ramoq
+돈을 바꾸다, pul almashtirmoq
+비행기표를 예매하다, samolyot biletini zakaz qilmoq
+여권을 만들다, pasport tayyorlamoq
+호텔을 예약하다, mehmonxona bron qilmoq
+도착하다, yetib bormoq
+돌아오다, qaytib kelmoq
+여행하다, sayohat qilmoq
+출발하다, jo‘nab ketmoq
+경치가 아름답다, tabiati chiroyli
+맛있는 음식이 많다, mazali ovqatlari ko‘p
+물건 값이 싸다, mahsulot narxi arzon
+구경거리가 많다, tomosha joylari ko‘p
+사람도 없고 조용하다, odam yo‘q, tinch
+반지, uzuk
+프러포즈, rozilik (nikoh taklifi)
+날, kun
+해운대, sohil
+떠나다, tashlab ketmoq
+안동, Andong (shahar nomi)
+찜닭, dimlangan tovuq
+편창, joy nomi
+즐겁다, zavqli
+휴가, ta’til
+야구 경기, beyzbol o‘yini
+야구장, beyzbol maydoni
+말, ot; gap
+닭갈비, tovuq taomi
+춘천, Chunchon (shahar nomi)
+신혼여행, asal oyi (yangi turmush sayohati)
+미술관, san’at galereyasi
+남이섬, Nami oroli
+섬, orol
+삼악산, Samak tog‘i
+올라가다, ko‘tarilmoq
+보이다, ko‘rinmoq
+막국수, taom nomi (grechka lag‘mon)
+질문, savol
+용인, Yongin (joy nomi)
+계획하다, reja qilmoq
+선물하다, sovg‘a qilmoq
+식사하다, ovqatlanmoq
+연락하다, telefon qilmoq
+준비하다, tayyorlanmoq
+초대하다, taklif qilmoq
+축하하다, tabriklamoq
+늦게, kech
+많이, ko‘p
+빨리, tez
+열심히, yurakdan (mehnatsevarlik bilan)
+일찍, ertaroq, vaqtli
+잘, yaxshi
+조금, biroz
+천천히, sekin-sekin
+음료수, salqin ichimlik
+별일, alohida ish / maxsus ish
+사가다, sotib olib bormoq
+이사를 하다, ko‘chmoq (uydan uyga)
+휴일, dam olish kuni
+돈을 찾다, pul yechmoq (bankdan)
+팝콘, popkorn
+춤을 추다, raqs tushmoq
+들어오다, kirib kelmoq
+아니에요, unday emas
+곧, tez orada
+상대방, suhbatdosh
+시간을 보내다, vaqt o‘tkazmoq
+참, aytgancha
+몰라요, bilmayman
+이메일, e-mail
+주소, manzil (email address)
+놀이, o‘yin
+세계, dunyo
+답장, javob xat
+세제, kir yuvish poroshogi
+부자, boy
